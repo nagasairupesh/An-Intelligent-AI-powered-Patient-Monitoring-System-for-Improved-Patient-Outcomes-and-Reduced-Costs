@@ -1,0 +1,2 @@
+# An-Intelligent-AI-powered-Patient-Monitoring-System-for-Improved-Patient-Outcomes-and-Reduced-Costs
+Develop an AI-powered patient monitoring system that uses wearable sensors and advanced analytics to improve patient outcomes and reduce healthcare costs. Leveraging Google Cloud and AMD instances, the system generates real-time insights and personalized recommendations for providers, improving efficiency and patient satisfaction.
